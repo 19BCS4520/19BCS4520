@@ -19,7 +19,7 @@
 
 ## ⚡ Key Initiatives & Impact
 
-### 🤖 The GenAI Ops Project (Active)
+### 🔮 The GenAI Ops Project (Active)
 I architected a **GenAI-based solution (GPT-4o)** integrated with **Splunk** and **Webex** to revolutionize our incident management.
 * **Smart Log Analysis:** AI agents analyze logs to provide instant root cause recommendations.
 * **Automated Triage:** Automatically creates Jira tickets with context and initiates triage calls.
@@ -37,28 +37,87 @@ Leading the complex migration of business-critical systems to **AWS EKS**.
 <div align="center">
   <h2>🛠️ Technology Stack</h2>
   
-  <p><b>Infrastructure & Cloud</b></p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux&theme=light" />
-  </p>
+  <div style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117;">
+    <h3>🔮 Special Focus: AIOps & GenAI</h3>
+    <img src="https://img.shields.io/badge/Generative_AI-Solutions-7d56f4?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI" />
+    <img src="https://img.shields.io/badge/LLMs-Large_Language_Models-orange?style=for-the-badge" alt="LLM" />
+    <img src="https://img.shields.io/badge/AI_Agents-Autonomous_Workflows-red?style=for-the-badge" alt="Agents" />
+    <br>
+    <br>
+    <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-blue?style=for-the-badge" alt="MCP" />
+    <img src="https://img.shields.io/badge/OpenAI-GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT4" />
+  </div>
 
-  <p><b>DevOps & Observability</b></p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=jenkins,splunk,git,grafana&theme=light" />
-  </p>
-  
-  <p><b>Development</b></p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=python,nodejs,react,css&theme=light" />
-  </p>
+  <br>
 
-  <p><b>GenAI & Automation</b></p>
-  <p>
-    <img src="https://img.shields.io/badge/LLMs-Integration-orange?style=flat-square" alt="LLM" />
-    <img src="https://img.shields.io/badge/AI_Agents-Autonomous-red?style=flat-square" alt="Agents" />
-    <img src="https://img.shields.io/badge/MCP-Protocol-blue?style=flat-square" alt="MCP" />
-    <img src="https://img.shields.io/badge/OpenAI-GPT--4-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  </p>
+  <table align="center">
+    <tr>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS" />
+        <br>AWS
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="K8s" />
+        <br>Kubernetes
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" />
+        <br>Docker
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=terraform" width="45" height="45" alt="Terraform" />
+        <br>Terraform
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
+        <br>Linux
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=jenkins" width="45" height="45" alt="Jenkins" />
+        <br>Jenkins
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=splunk" width="45" height="45" alt="Splunk" />
+        <br>Splunk
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=prometheus" width="45" height="45" alt="Prometheus" />
+        <br>Prometheus
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=grafana" width="45" height="45" alt="Grafana" />
+        <br>Grafana
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=dynatrace" width="45" height="45" alt="Dynatrace" />
+        <br>Dynatrace
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node" />
+        <br>Node.js
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" />
+        <br>React
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="Bash" />
+        <br>Bash
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
