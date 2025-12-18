@@ -1,64 +1,81 @@
-<h1 align="center">Hi 👋, I'm Parikshit Sharma</h1>
-<h3 align="center">🚀 Streamlining Dev to Ops with Automation, Collaboration & GenAI</h3>
+<div align="center">
+  <h1 align="center">Hi there 👋, I'm Parikshit Sharma</h1>
+  <h3 align="center">🚀 SRE & DevOps Engineer | Automating Ops with GenAI</h3>
+  
+  <p align="center">
+    <i>"Transforming manual toil into automated reliability."</i>
+  </p>
 
-<p align="center">
-  <a href="mailto:parikshit4520@gmail.com">
-    <img src="https://img.shields.io/badge/Email-parikshit4520%40gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/parikshit-sharma-49a4761a7">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
+  <p align="center">
+    <a href="mailto:parikshit4520@gmail.com">
+      <img src="https://img.shields.io/badge/Email-parikshit4520%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/parikshit-sharma-49a4761a7">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://medium.com/@parikshit4520">
+      <img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    </a>
+  </p>
+</div>
 
 <br>
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I am a **Site Reliability & DevOps Engineer** passionate about building resilient, scalable systems. My focus is on ensuring zero downtime and optimizing costs for business-critical applications.
+I am a **Site Reliability Engineer** at **ADP**, specializing in High Availability and **Cost Optimization** for business-critical SaaS platforms. I maintain the **Workforce Now (WFN)** platform (400+ microservices), bridging the gap between development and operations.
 
-Currently, I work on **Workforce Now (WFN)** at **ADP**, a massive SaaS HCM platform built on **400+ microservices**. My role bridges the gap between development and operations, focusing on production support, incident resolution, and developer experience (DevEx).
-
-#### 🔭 Key Initiatives
-* **☁️ Cloud Migration:** Leading the complex migration of systems from on-premise to **AWS EKS**, handling configuration, parameter tuning, and deployment strategies for both production and lower environments.
-* **🤖 AI-Driven SRE:** I recently architected a **GenAI solution (OpenAI GPT-4o)** integrated with **Splunk** and **Webex** to revolutionize our operations. This tool:
-    * Provides **AI-powered log analysis** with root cause recommendations.
-    * Acts as a **Knowledge Hub** for deployments and SOPs.
-    * Delivers **real-time infrastructure monitoring** (e.g., HSMQ queue depth).
-    * **Automates Incident Escalation** by creating Jira tickets with full context.
-    * 📉 **Impact:** Reduced CERT incidents from **5–6/month to 2–3** and eliminated manual Jira follow-ups for Dev & QA.
+My current focus is **AIOps**: leveraging **LLMs, Agents, and MCP** to create "smart" infrastructure that self-diagnoses and heals.
 
 ---
 
-### 🛠️ Languages and Tools
+## ⚡ Key Highlights & Impact
 
-<h4 align="left">Cloud & DevOps</h4>
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/> </a> 
-  <a href="https://www.terraform.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="45" height="45"/> </a>
-  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="45" height="45"/> </a> 
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/> </a> 
-  <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="45"/> </a> 
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> </a> 
-</p>
+### 🤖 The GenAI Ops Project (Active)
+I architected a **GenAI-based solution (GPT-4o)** integrated with **Splunk** and **Webex** to revolutionize our incident management.
+* **Smart Log Analysis:** AI agents analyze logs to provide instant root cause recommendations.
+* **Automated Triage:** Automatically creates Jira tickets with context and initiates triage calls.
+* **Infrastructure Monitoring:** Real-time checking of HSMQ queue depths and critical metrics.
+* **Knowledge Hub:** A centralized bot for deployments and SOPs.
+* **📈 IMPACT:** Reduced CERT incidents from **5–6/mo to ~2** and eliminated manual Jira follow-ups.
 
-<h4 align="left">GenAI & Automation</h4>
-<p align="left">
-  <img src="https://img.shields.io/badge/Gen_AI-Solutions-7d56f4?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI" />
-  <img src="https://img.shields.io/badge/LLMs-Integration-orange?style=for-the-badge" alt="LLM" />
-  <img src="https://img.shields.io/badge/MCP-Protocol-blue?style=for-the-badge" alt="MCP" />
-  <img src="https://img.shields.io/badge/AI_Agents-Autonomous-red?style=for-the-badge" alt="Agents" />
-</p>
+### ☁️ Massive Cloud Migration
+Leading the migration from On-Prem to **AWS EKS**.
+* Handling configuration, parameter tuning, and deployments for Production.
+* Solving complex client-specific issues to ensure zero downtime during cutovers.
 
-<h4 align="left">Development</h4>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+| **Infrastructure & Cloud** | **DevOps & Observability** | **GenAI & Development** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux" width="200" /> | <img src="https://skillicons.dev/icons?i=jenkins,splunk,git,grafana" width="160" /> | <img src="https://skillicons.dev/icons?i=python,nodejs,react,css" width="160" /> |
+
+</div>
+
+<h3 align="center">🤖 Advanced AI Tech</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-Integration-orange?style=flat-square" alt="LLM" />
+  <img src="https://img.shields.io/badge/AI_Agents-Autonomous-red?style=flat-square" alt="Agents" />
+  <img src="https://img.shields.io/badge/MCP-Protocol-blue?style=flat-square" alt="MCP" />
+  <img src="https://img.shields.io/badge/OpenAI-GPT--4-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
 </p>
 
 ---
+
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+<br>
 
 <p align="center">
-  <i>"Leveraging automation and AI to build the future of Reliability."</i>
+  <a href="https://medium.com/@parikshit4520">
+    <img src="https://img.shields.io/badge/Check_Out_My-Technical_Articles-black?style=for-the-badge&logo=medium" alt="Read Articles" />
+  </a>
 </p>
