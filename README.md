@@ -27,10 +27,11 @@ I architected a **GenAI-based solution (GPT-4o)** integrated with **Splunk** and
 * **Knowledge Hub:** A centralized bot for deployments and SOPs.
 * **📉 IMPACT:** Reduced CERT incidents from **5–6/mo to ~2** and eliminated manual Jira follow-ups.
 
-### ☁️ Cloud Migration (On-Prem to EKS)
-Leading the complex migration of business-critical systems to **AWS EKS**.
-* Managing configuration, parameter tuning, and deployments for both Prod and Lower environments.
-* Solving client-specific migration issues to ensure high availability.
+### ☁️ Cloud Modernization & EKS Automation
+Leading the strategic transformation of business-critical systems from On-Prem to **AWS EKS**.
+* **Infrastructure as Code (IaC):** Engineered modular **Terraform** scripts to fully automate EKS cluster provisioning, node management, and state consistency, reducing environment drift.
+* **Seamless EKS Upgrades:** Orchestrated complex EKS version upgrades (Control Plane & Node Groups) with **zero downtime** strategies, ensuring security compliance for 400+ microservices.
+* **Migration Leadership:** Managed configuration tuning, capacity planning, and cutovers for Production environments, ensuring high availability during the transition.
 
 ---
 
