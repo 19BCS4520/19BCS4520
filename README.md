@@ -130,6 +130,4 @@ I am passionate about **AIOps**—leveraging Generative AI and Agents to build "
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-</div>
+
